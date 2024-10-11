@@ -5,7 +5,8 @@ class BosCli < Formula
   desc ""
   homepage ""
   url "https://github.com/bos-cli-rs/bos-cli-rs/archive/refs/tags/v0.3.17.tar.gz"
-  sha256 "189fbfb425a3a1e825bd5fc36ea3c6910aa5786ac6ebb1a404d308efaf94035d"
+  sha256 "67749aa1413c4e61c1239446edf279dcfa1d35ee08b884a0016c2ad920d16cbb"
+  version "0.3.17"
   license ""
 
   depends_on "rust" => :build
