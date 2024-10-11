@@ -4,7 +4,7 @@
 class BosCli < Formula
   desc ""
   homepage ""
-  url "https://github.com/bos-cli-rs/bos-cli-rs/archive/refs/tags/v0.3.2.tar.gz"
+  url "https://github.com/bos-cli-rs/bos-cli-rs/archive/refs/tags/v0.3.17.tar.gz"
   sha256 "189fbfb425a3a1e825bd5fc36ea3c6910aa5786ac6ebb1a404d308efaf94035d"
   license ""
 

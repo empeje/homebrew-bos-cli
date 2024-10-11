@@ -4,7 +4,7 @@
 class BosLoader < Formula
   desc ""
   homepage ""
-  url "https://github.com/near/bos-loader/archive/refs/tags/v0.7.0.tar.gz"
+  url "https://github.com/near/bos-loader/archive/refs/tags/v0.12.0.tar.gz"
   sha256 "70db83053ff43fd12c5caaafaf54ff225bdb95ad980cea15f4082deb943f44bd"
   license ""
 
