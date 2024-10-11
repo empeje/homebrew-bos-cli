@@ -1,6 +1,10 @@
 # Empeje Bos-cli
 
-## How do I install these formulae?
+## NOT MAINTAINED ANYMORE
+
+My recommendation is to use the npm package instead: See their official [documentation](https://github.com/bos-cli-rs/bos-cli-rs?tab=readme-ov-file#install).
+
+## How do I install these formulae
 
 `brew install empeje/bos-cli/<formula>`
 
