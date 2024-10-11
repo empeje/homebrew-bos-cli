@@ -5,7 +5,7 @@ class BosLoader < Formula
   desc ""
   homepage ""
   url "https://github.com/near/bos-loader/archive/refs/tags/v0.12.0.tar.gz"
-  sha256 "ab3e611b2afcd0418f14a649092590c9247cf1c294ad13785057c01062a154ba"
+  sha256 "172d5cd741bc80f23fed7db5e992f0722925fda61a4788db324f37a7a14d6603"
   version "0.12.0"
   license ""
 
